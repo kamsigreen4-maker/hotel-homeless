@@ -37,4 +37,36 @@
       }
     });
   }
+
+  var applyForm = document.getElementById('applyForm');
+  if (applyForm) {
+    applyForm.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var data = {
+        name: document.getElementById('app-name').value || '',
+        phone: document.getElementById('app-phone').value || '',
+        email: document.getElementById('app-email').value || '',
+        current_address: document.getElementById('app-address').value || '',
+        adults: document.getElementById('app-adults').value || '0',
+        children: document.getElementById('app-children').value || '0',
+        notes: document.getElementById('app-notes').value || '',
+        created_at: new Date().toISOString()
+      };
+      try {
+        var apps = JSON.parse(localStorage.getItem('applications') || '[]');
+        apps.push(data);
+        localStorage.setItem('applications', JSON.stringify(apps));
+      } catch (err) {
+        console.error('Could not save application', err);
+      }
+      applyForm.reset();
+      var s = document.getElementById('applySuccess');
+      if (s) {
+        s.style.display = 'block';
+        setTimeout(function () {
+          s.style.display = 'none';
+        }, 5000);
+      }
+    });
+  }
 })();
