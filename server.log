@@ -1,34 +1,147 @@
-127.0.0.1 - - [31/May/2026 13:52:16] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:16] "GET /img/portfolio/05-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:16] "GET /img/testimonials/05.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /styles.css HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/team/01.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/07-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/testimonials/06.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] code 404, message File not found
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/testimonials/03.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/team/02.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/testimonials/04.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/06-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/03-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/team/03.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/01-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/09-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/02-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/testimonials/01.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/08-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /script.js HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/testimonials/02.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/about.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/portfolio/04-small.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/team/04.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /img/intro-bg.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 13:52:17] code 404, message File not found
-127.0.0.1 - - [31/May/2026 13:52:17] "GET /favicon.ico HTTP/1.1" 404 -
-127.0.0.1 - - [31/May/2026 14:26:21] "GET / HTTP/1.1" 304 -
-127.0.0.1 - - [31/May/2026 14:26:21] code 404, message File not found
-127.0.0.1 - - [31/May/2026 14:26:21] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
-127.0.0.1 - - [31/May/2026 14:26:35] "GET / HTTP/1.1" 200 -
-127.0.0.1 - - [31/May/2026 14:26:35] code 404, message File not found
-127.0.0.1 - - [31/May/2026 14:26:35] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:39:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:39:59] "GET /img/portfolio/05-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:39:59] "GET /img/testimonials/05.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:39:59] "GET /img/testimonials/04.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:39:59] "GET /img/portfolio/04-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/02-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/07-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/testimonials/06.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/team/02.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/testimonials/03.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/testimonials/01.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/08-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/team/03.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/testimonials/02.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/01-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/about.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/03-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/06-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/team/04.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/team/01.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/portfolio/09-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /img/intro-bg.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:40:00] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:40:00] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:51:52] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 13:51:53] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:51:53] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 13:51:55] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:51:55] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /styles.css HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/03-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /script.js HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/01-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/about.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/02-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/06-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/05-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/07-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/09-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/08-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/01.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/kamz.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/portfolio/04-small.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/02.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/03.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/05.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/04.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/testimonials/06.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/team/01.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/team/02.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/team/03.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 13:52:47] "GET /img/team/04.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:02:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:02:54] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:02:54] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:02:54] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:00] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:09:00] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:00] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:00] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:00] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:00] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:09:03] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:03] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:03] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:03] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:29] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:09:29] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:29] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:29] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:29] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:09:30] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:30] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:32] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:32] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:33] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:33] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:33] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:33] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:33] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:35] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:09:35] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:35] "GET /img/nezuko HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:09:35] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:09:35] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:11:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:11:31] "GET /img/nezuko.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:11:31] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:11:31] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:11:31] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:15:09] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:15:10] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:15:10] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:15:10] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:15:10] "GET /img/zenitsu.jpg HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:15:10] "GET /styles.css HTTP/1.1" 304 -
+127.0.0.1 - - [07/Jun/2026 14:31:13] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:31:13] "GET /img/kokoshibo.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [07/Jun/2026 14:31:13] code 404, message File not found
+127.0.0.1 - - [07/Jun/2026 14:31:13] "GET /h[ooooooooooooijjjjkm'lppkokokookokoookokoijijiookoplplpokokoiuhuhuygygytftfrdrdreseseawwawqaaq%20%20%20%20%20%20ont-awesome@4.7.0/css/font-awesome.min.css HTTP/1.1" 404 -
+127.0.0.1 - - [07/Jun/2026 14:31:13] "GET /styles.css HTTP/1.1" 304 -
